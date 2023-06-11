@@ -1,0 +1,6 @@
+#!/bin/bash
+
+
+
+mkdir -p /opt/123
+touch /opt/123/file.txt
